@@ -1,4 +1,4 @@
-# JavaScript-Project-
+# JavaScript-Project
 
 Welcome to my JavaScript Projects repository! This collection showcases various projects demonstrating my proficiency in web development using JavaScript. From interactive websites to dynamic web applications, these projects reflect my understanding of both frontend using JS.
 
